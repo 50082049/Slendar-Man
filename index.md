@@ -28,7 +28,7 @@ In her book, Folklore, Horror Stories, and the Slender Man: The Development of a
 ```markdown
 Syntax highlighted code block
 
-# Slender Man's apperance and involvments
+## Slender Man's apperance and involvments
 
 The Slender Man (also known as Slenderman) is a fictional supernatural character that originated as a creepypasta Internet meme created by Something Awful forums user Eric Knudsen (also known as "Victor Surge") in 2009. It is depicted as a thin, unnaturally tall humanoid with a featureless head and face and wearing a black suit.
 
@@ -80,7 +80,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Their is a way to summon the Slender Man this technuige is said to work better at night but then again dont try this if you feel like if you are going to put your self in danger.
 
-# Materials
+## Materials
 
 - A Tree
 - A Knife
@@ -100,7 +100,7 @@ Step 3. Then chant: Slenderman, Slenderman, all the children try to run,
         
  Step 4. Turn around
  
- # examples for the Symbol and Sufaces
+ ## examples for the Symbol and Sufaces
  
  <img src="https://vignette.wikia.nocookie.net/theslenderman/images/3/31/Operatorsymbol.png/revision/latest?cb=20111022223616" alt="Trulli" width="500" height="333">
  
