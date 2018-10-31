@@ -1,3 +1,5 @@
+theme: jekyll-theme-midnight
+
 ## Slender man
 
  <img src="https://bloody-disgusting.com/wp-content/uploads/2018/07/slender-man-trailer-2.png" alt="Trulli" width="700" height="333">
