@@ -4,7 +4,7 @@ email: richardd2049@aurorak12.org
 description: >- # this means to ignore newlines until "baseurl:"
   Slender man the creepy pasta favorite this slender man blog  is for beleivers and fans of the infamous slender man here people can
   can tell and share the view about slender man even share there story of where they had a slender man encounter but in any case
-  there shal be no inapropreate content or any of the sort but pleease enjoy this blog
+  there shall be no inapropreate content or any of the sort but please enjoy this blog
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jekyll
